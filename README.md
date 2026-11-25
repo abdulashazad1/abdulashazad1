@@ -1,8 +1,9 @@
  <div align="center">
 
-<img src="banner.jpg" width="100%" alt="Abdullah Shahzad - Developer Banner"/>
+<img src="banner.jpeg" width="100%" alt="Abdullah Shahzad - Developer Banner"/>
 
 <br/>
+
 # Abdullah Shahzad
 
 ### SOFTWARE ENGINEER | AI AUTOMATION ENGINEER
