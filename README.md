@@ -1,141 +1,164 @@
  <div align="center">
- <div align="center">
-  <img src="Banner.jpg" width="100%" alt="Abdullah Shahzad - Software Engineer"/>
-</div>
+
+<img src="Banner.jpg" width="100%" alt="Abdullah Shahzad - Developer Banner"/>
 
 <br/>
 
+<img src="avatar.jpg" width="155" alt="Abdullah's Oni Avatar"/>
+
 # Abdullah Shahzad
 
-### Software Engineer · AI Automation Engineer · Computer Science & Mathematics
+### SOFTWARE ENGINEER | AI AUTOMATION ENGINEER
 
-Building intelligent applications, scalable backends, and automation systems.
+*Building intelligent systems. Automating workflows. Creating meaningful software.*
 
-[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:abdullah.shahzad@colby.edu)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D9F5?style=for-the-badge&logo=googlechrome&logoColor=black)](https://abdulashazad1.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/CONTACT-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.shahzad@colby.edu)
 
 </div>
 
 ---
 
-## About Me
+## `01` / ABOUT ME
 
-I'm a software engineer with a background in Computer Science and Mathematics from **Colby College**, interested in building practical software solutions at the intersection of technology, AI, and automation.
+I'm a software engineer with a background in **Computer Science and Mathematics from Colby College**.
 
-My experience spans full-stack development, backend engineering, LLM-powered automation, and academic research in ethical computing.
+I enjoy building applications, developing backend systems, and exploring the intersection of artificial intelligence and software engineering.
 
-- 🎓 B.S. in Computer Science & Mathematics, Colby College
-- 🤖 Building AI-powered workflows and automation systems
-- 💻 Experienced in full-stack development and REST API integrations
-- 🔬 Research experience in ethical computing and AI-driven systems
-- 🌱 Currently exploring AI engineering, backend architecture, and intelligent applications
+My experience includes full-stack development, LLM-powered automation, REST API integrations, and academic research in ethical computing.
 
----
-
-## Technical Skills
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-**AI, Machine Learning & Automation**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-
-**Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+- 🎓 B.S. Computer Science & Mathematics, Colby College
+- 🤖 AI automation and LLM-powered workflows
+- ⚙️ Backend engineering and API integrations
+- 🔬 Research in ethical computing and AI
+- 🌏 International experience across the US, UK, and UAE
 
 ---
 
-## Professional Experience
+## `02` / TECH ARSENAL
 
-### AI Automation Engineer · This Agency
-**August 2025 – March 2026 | UK (Remote)**
+**LANGUAGES**
 
-- Designed and deployed AI automation pipelines integrating LLM-driven workflows into GoHighLevel (GHL) CRM.
-- Built and maintained RESTful API integrations connecting GHL with third-party platforms.
-- Implemented integrations using webhooks, Zapier, Make, and Stripe.
-- Enabled seamless data flow across interconnected automation systems.
+![Python](https://img.shields.io/badge/Python-00D9F5?style=flat-square&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-222222?style=flat-square&logo=openjdk&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-222222?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-222222?style=flat-square&logo=postgresql&logoColor=00D9F5)
 
-### Research Assistant · Colby College
-**May 2025 – July 2025 | Waterville, Maine**
+**WEB DEVELOPMENT**
 
-- Conducted research under Professor Stacy Doore on Ethical Computing Narratives, focusing on research intended to contribute to a paper on death bots.
-- Worked on AI-driven indexing for a film repository used by the Kino Lab.
+![React](https://img.shields.io/badge/React-222222?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-222222?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-222222?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=flat-square&logo=mongodb&logoColor=47A248)
+![HTML5](https://img.shields.io/badge/HTML5-222222?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-222222?style=flat-square&logo=css3&logoColor=1572B6)
+
+**AI & AUTOMATION**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-222222?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-222222?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![n8n](https://img.shields.io/badge/n8n-222222?style=flat-square&logo=n8n&logoColor=EA4B71)
+![Zapier](https://img.shields.io/badge/Zapier-222222?style=flat-square&logo=zapier&logoColor=FF4A00)
+
+**TOOLS & OTHER TECHNOLOGIES**
+
+![GitHub](https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-222222?style=flat-square&logo=latex&logoColor=008080)
+![Django](https://img.shields.io/badge/Django-222222?style=flat-square&logo=django&logoColor=092E20)
+
+---
+
+## `03` / EXPERIENCE
+
+### AI Automation Engineer
+**This Agency · UK (Remote)**
+
+`AUG 2025 — MAR 2026`
+
+- Designed and deployed LLM-driven automation pipelines integrated with GoHighLevel CRM.
+- Developed RESTful API integrations connecting CRM systems with third-party platforms.
+- Implemented workflows using webhooks, Zapier, Make, and Stripe.
+- Built interconnected automation systems enabling seamless data flow.
+
+### Research Assistant
+**Colby College · Waterville, Maine**
+
+`MAY 2025 — JUL 2025`
+
+- Conducted research on Ethical Computing Narratives under Professor Stacy Doore.
+- Explored research surrounding digital legacy and death bots.
+- Developed AI-driven indexing for a film repository used by the Kino Lab.
 - Built a backend for an Ethical Computing Narratives database using Django ORM.
 
-### Intern Software Engineer · HappyTenant
-**May 2024 – August 2024 | Dubai, UAE**
+### Software Engineer Intern
+**HappyTenant · Dubai, UAE**
 
-- Developed two web application features: Likely to Sell logic on contacts and Transaction Form Coordinator.
-- Integrated frontend components with REST APIs to display dynamic, real-time data.
-- Identified and resolved product bugs through a ticketing system.
+`MAY 2024 — AUG 2024`
 
----
-
-## Featured Projects
-
-**Nosedive**  
-A game developed as part of my software development projects.
-
-**Flashcard Application**  
-An application designed to support interactive learning and studying.
-
-**Personal Website & Automated Workflows**  
-A personal web presence incorporating automated workflows.
-
-**Next-Gen Pakistan**  
-Website development for a nonprofit organization.
-
-**Kestrel Education**  
-Contributed as a contractor to a college application management platform.
+- Developed two web application features: Likely to Sell logic and Transaction Form Coordinator.
+- Integrated frontend components with REST APIs.
+- Worked with dynamic, real-time application data.
+- Debugged and resolved product issues through a ticketing system.
 
 ---
 
-## Education
+## `04` / SELECTED PROJECTS
+
+| Project | Description |
+|---|---|
+| **Nosedive** | Game development project |
+| **Flashcard App** | Interactive learning application |
+| **Personal Website** | Portfolio with automated workflows |
+| **Next-Gen Pakistan** | NGO website development |
+| **Kestrel Education** | College application management platform |
+
+*Explore my repositories for more projects and implementations.*
+
+---
+
+## `05` / EDUCATION
 
 **Colby College** · Waterville, Maine, USA
 
-Bachelor of Science in Computer Science & Mathematics  
-GPA: 3.70 · May 2025
+Bachelor of Science in Computer Science & Mathematics
+
+GPA: **3.70**
 
 **SICAS** · Lahore, Pakistan
 
-O/A Levels · 9 A*s, 3 As
+O/A Levels · **9 A*s, 3 As**
 
 ---
 
-## Honors & Achievements
+## `06` / HONORS & ACHIEVEMENTS
 
 - Global Distinction in A-Level Global Perspectives & Research.
-- Member of the Pakistan National Debate Team.
-- President of the George E. Murray Debate Society.
+- Member of Pakistan National Debate Team.
+- President of George E. Murray Debate Society.
 - Colby College Dean's List.
+
+---
+
+## `07` / GITHUB ACTIVITY
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9F5&icon_color=00D9F5&text_color=C9D1D9" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9F5&text_color=C9D1D9" alt="Top Languages"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Always building. Always learning.
+### `BUILD • AUTOMATE • INNOVATE`
 
-Feel free to explore my repositories or connect with me.
+*Thanks for stopping by. Let's build something interesting.*
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00D9F5&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
