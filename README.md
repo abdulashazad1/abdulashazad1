@@ -18,7 +18,8 @@
 
 ---
 
-## `01` / ABOUT ME
+## `01` / ABOUT ME 
+<img src="colby_logo.png" width="20%" align= right alt="Abdullah Shahzad - Developer Banner"/>
 
 I'm a software engineer with a background in **Computer Science and Mathematics from Colby College**.
 
@@ -58,7 +59,6 @@ My experience includes full-stack development, LLM-powered automation, REST API 
 ![PyTorch](https://img.shields.io/badge/PyTorch-222222?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-222222?style=flat-square&logo=huggingface&logoColor=FFD21E)
 ![n8n](https://img.shields.io/badge/n8n-222222?style=flat-square&logo=n8n&logoColor=EA4B71)
-![Zapier](https://img.shields.io/badge/Zapier-222222?style=flat-square&logo=zapier&logoColor=FF4A00)
 
 **TOOLS & OTHER TECHNOLOGIES**
 
