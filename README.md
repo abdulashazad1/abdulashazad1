@@ -1,11 +1,8 @@
  <div align="center">
 
-<img src="Banner.jpg" width="100%" alt="Abdullah Shahzad - Developer Banner"/>
+<img src="banner.jpg" width="100%" alt="Abdullah Shahzad - Developer Banner"/>
 
 <br/>
-
-<img src="avatar.jpg" width="155" alt="Abdullah's Oni Avatar"/>
-
 # Abdullah Shahzad
 
 ### SOFTWARE ENGINEER | AI AUTOMATION ENGINEER
