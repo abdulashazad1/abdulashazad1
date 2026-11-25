@@ -141,24 +141,10 @@ O/A Levels · **9 A*s, 3 As**
 
 ---
 
-## `07` / GITHUB ACTIVITY
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9F5&icon_color=00D9F5&text_color=C9D1D9" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9F5&text_color=C9D1D9" alt="Top Languages"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### `BUILD • AUTOMATE • INNOVATE`
 
 *Thanks for stopping by. Let's build something interesting.*
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00D9F5&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
