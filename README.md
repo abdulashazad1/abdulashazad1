@@ -1,6 +1,6 @@
  <div align="center">
  <div align="center">
-  <img src="Banner.png" width="100%" alt="Abdullah Shahzad - Software Engineer"/>
+  <img src="Banner.jpg" width="100%" alt="Abdullah Shahzad - Software Engineer"/>
 </div>
 
 <br/>
