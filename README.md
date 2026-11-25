@@ -19,7 +19,7 @@
 ---
 
 ## `01` / ABOUT ME 
-<img src="colby+logo.jpg" width="30%" align= right height = "80%" alt="Abdullah Shahzad - Developer Banner"/>
+<img src="colby+logo.jpg" width="24%" align="right" alt="Colby Logo"/>
 
 I'm a software engineer with a background in **Computer Science and Mathematics from Colby College**.
 
